@@ -1,0 +1,29 @@
+.box1{
+    background-color: #93338A;
+    height: 40px
+}
+@font-face {
+    font-family: yekan;
+    src: url(/font/Yekan.ttf);
+}
+.saghar{
+    font-family: yekan ;
+    color: rgb(255, 255, 255);
+}
+.box2{
+    height: 300px;
+    border-radius: 150px ;
+    border-color: #93338A;
+    background-color: #1468AE;
+}
+.tarahi{
+font-family: yekan;
+font-size: 30px;
+color: palegreen;
+}
+.akhar{
+    border-radius: 20px;
+}
+.creative{
+    font-size: 100px0;
+}
